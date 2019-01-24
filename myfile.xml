@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+
+			<catalog>
+
+				<movie id="mv1">
+
+					<picture>https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg</picture>
+
+					<title>Jurassic Park</title>
+
+					<director>Steven Spielberg</director>
+
+					<actor>Sam Neill</actor>
+
+					<imdb><a href="https://www.imdb.com/title/tt0107290/" /></imdb>
+
+					<year>1993</year>
+
+					<genre>Action/Adventure</genre>
+
+				</movie>
+				<movie id="m2">
+
+					<picture>https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY999_CR0,0,673,999_AL_.jpg</picture>
+
+					<title>Lord of the Rings: Fellowship of the Ring</title>
+
+					<director>Peter Jackson</director>
+
+					<actor>Elijah Wood</actor>
+
+					<imdb><a href="https://www.imdb.com/title/tt0120737/?ref_=nv_sr_1" /></imdb>
+
+					<year>2001</year>
+
+					<genre>Fantasy/Adventure</genre>
+
+				</movie>
+				<movie id="m3">
+
+					<picture>https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_SX684_AL_.jpg</picture>
+
+					<title>Snatch</title>
+
+					<director>Guy Ritchie</director>
+
+					<actor> Jason Statham</actor>
+
+					<imdb><a href="https://www.imdb.com/title/tt0208092/?ref_=nv_sr_1" /></imdb>
+
+					<year>2000</year>
+
+					<genre>Crime/Comedy</genre>
+
+				</movie>
+				<movie id="m4">
+
+					<picture>https://m.media-amazon.com/images/M/MV5BODExYTM0MzEtZGY2Yy00N2ExLTkwZjItNGYzYTRmMWZlOGEzXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,673,1000_AL_.jpg</picture>
+
+					<title>Twister</title>
+
+					<director>Jan de Bont</director>
+
+					<actor>Helen Hunt</actor>
+
+					<imdb><a href="https://www.imdb.com/title/tt0117998/" /></imdb>
+
+					<year>1996</year>
+
+					<genre>Action/Adventure</genre>
+
+				</movie>
+				<movie id="m5">
+
+					<picture>https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg</picture>
+
+					<title>The Green Mile</title>
+
+					<director>Frank Darabont</director>
+
+					<actor>Tom Hanks</actor>
+
+					<imdb><a href="https://www.imdb.com/title/tt0120689/?ref_=nv_sr_1" /></imdb>
+
+					<year>1999</year>
+
+					<genre>Crime/Drama</genre>
+
+				</movie>
+				<movie id="m6">
+
+					<picture>https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</picture>
+
+					<title>The Shawshank Redemption</title>
+
+					<director>Frank Darabont</director>
+
+					<actor>Morgan Freeman</actor>
+
+					<imdb><a href="https://www.imdb.com/title/tt0111161/?ref_=nv_sr_1" /></imdb>
+
+					<year>1994</year>
+
+					<genre>Drama</genre>
+
+				</movie>
+				<movie id="m7">
+
+					<picture>https://m.media-amazon.com/images/M/MV5BMjZkOTdmMWItOTkyNy00MDdjLTlhNTQtYzU3MzdhZjA0ZDEyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</picture>
+
+					<title>O Brother Where Art Thou</title>
+
+					<director>Coen Brothers</director>
+
+					<actor>George Clooney</actor>
+
+					<imdb><a href="https://www.imdb.com/title/tt0190590/?ref_=nv_sr_1" /></imdb>
+
+					<year>2000</year>
+
+					<genre>Adenture/Comedy</genre>
+
+				</movie>
+				<movie id="m8">
+
+					<picture>https://m.media-amazon.com/images/M/MV5BOWE2MDAwZjEtODEyOS00ZjYyLTgzNDUtYmNiY2VmNWRiMTQxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</picture>
+
+					<title>Serenity</title>
+
+					<director>Joss Whedon</director>
+
+					<actor>Nathan Fillion</actor>
+
+					<imdb><a href="https://www.imdb.com/title/tt0379786/?ref_=tt_rec_tt" /></imdb>
+
+					<year>2005</year>
+
+					<genre>Action/SciFi</genre>
+
+				</movie>
+				<movie id="m9">
+
+					<picture>https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,686,1000_AL_.jpg</picture>
+
+					<title>Pulp Fiction</title>
+
+					<director>Quientin Tarantino</director>
+
+					<actor>Samuel L Jackson</actor>
+
+					<imdb><a href="https://www.imdb.com/title/tt0110912/?ref_=nv_sr_1" /></imdb>
+
+					<year>1994</year>
+
+					<genre>Crime/Drama</genre>
+
+				</movie>
+				<movie id="m10">
+
+					<picture>https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_SY1000_CR0,0,670,1000_AL_.jpg</picture>
+
+					<title>The Big Lebowski</title>
+
+					<director>Coen Brothers</director>
+
+					<actor>Jeff Bridges</actor>
+
+					<imdb><a href="https://www.imdb.com/title/tt0118715/?ref_=nv_sr_3" /></imdb>
+
+					<year>1998</year>
+
+					<genre>Comedy</genre>
+
+				</movie>
+			</catalog>
